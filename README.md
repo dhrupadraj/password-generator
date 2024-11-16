@@ -8,3 +8,4 @@ Used Technologies
 -> HTML5
 -> CSS3
 -> JavaScript
+http://127.0.0.1:5500/index.html
